@@ -16,13 +16,13 @@ module.exports = {
 	},
 	onStart: async function ({ message }) {
 		const botName = "🄺🄸🄽🄶♕︎";
-		const botPrefix = "/";
-		const authorName = "Ayush Shukla";
+		const botPrefix = ",";
+		const authorName = "𝗹𝗼𝗿𝗱 𝗸𝗶𝗻𝗴";
 		const ownAge = "22";
-		const teamName = "Team Priyanshi";
-		const authorFB = "https://www.facebook.com/profile.php?id=100042292561861";
-		const authorInsta = "YOUR_INSTA_USERNAME_HERE";
-		const tikTok = "YOUR_TIKTOK_USERNAME_HERE";
+		const teamName = "Team 𝗹𝗼𝗿𝗱";
+		const authorFB = "https://www.facebook.com/profile.php?id=61560050885709";
+		const authorInsta = "lordking9857";
+		const tikTok = "lord king";
 		const urls = JSON.parse(fs.readFileSync('cliff.json'));
 		const link = urls[Math.floor(Math.random() * urls.length)];
 		const now = moment().tz('Asia/Kolkata');
