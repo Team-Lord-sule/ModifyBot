@@ -33,7 +33,7 @@
   "GENDER": "MALE",
   "nickNameBot": "꧁[,]◦•●◉✿𝙈𝙞𝙣𝙞 𝘿𝙤𝙧𝙖 𝘽𝙤𝙩✿◉●•꧂",
   "FACEBOOK": "https://www.facebook.com/profile.php?id=61560050885709",
-  "prefix": "#",
+  "prefix": ",",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -44,7 +44,7 @@
   "timeZone": "Asia/Kolkata",
   "credentials": {
     "gmailAccount": {
-      "email": "cliffbotbeluga@gmail.com",
+      "email": "nonk43798@gmail.com",
       "clientId": "335951889803-q0sqvpqjire12vl0c1drqpvq6trqe7qi.apps.googleusercontent.com",
       "clientSecret": "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",
       "refreshToken": "1//04vKSsirtbMjRCgYIARAAGAQSNwF-L9Ir45Y2gJy6rg7wvfCbzF5fTFQxOhV83N6jQC-N5n6S-rNnEUgujiuWu4OvrLEbmELMcSI",
